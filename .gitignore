@@ -165,3 +165,4 @@ PyWhatKit_DB.txt
 .python-version
 .vscode
 .DS_Store
+*.xlsx

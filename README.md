@@ -33,12 +33,12 @@ pip install pywhatkit pandas typer openpyxl
 
    ```python
    DATA_FOLDER = "data"
-   DATA_FILE = "contatos.xlsx"
+   DATA_FILE = "dados.xlsx"
    MSG_INTERVAL = 1
    ```
 
 2. **Arquivo de Dados (contatos.xlsx):**
-   - Crie um arquivo Excel chamado `contatos.xlsx` (ou o nome que você definiu em `DATA_FILE`) na pasta especificada em `DATA_FOLDER`.
+   - Crie um arquivo Excel chamado `dados.xlsx` (ou o nome que você definiu em `DATA_FILE`) na pasta especificada em `DATA_FOLDER`.
    - Crie duas abas no arquivo Excel:
       - **pessoas:**
           - Colunas:
